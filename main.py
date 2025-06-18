@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃✌️😈🐧</p>
-    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 🔥😈 <a href="https://www.facebook.com/yuvi001x">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2025 𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜 𝗜𝗡𝗦𝗜𝗗𝗘 😈🐧</p>
+    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 😈 <a href="https://www.facebook.com/yuvi001x">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918607715179" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
