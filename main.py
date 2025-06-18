@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈 𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐘𝐔𝐕𝐈 𝐗𝐃 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
+  <title>😈 𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐘𝐔𝐕𝐈 𝐗𝐃✌️😈🐧</p>
-    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐘𝐔𝐕𝐈 𝐗𝐃🔥😈 <a href="https://www.facebook.com/yuvi001x">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2025 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃✌️😈🐧</p>
+    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 🔥😈 <a href="https://www.facebook.com/yuvi001x">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918607715179" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
