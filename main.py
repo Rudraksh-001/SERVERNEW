@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈 𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈 </title>
+  <title>😈 𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜 𝗜𝗡𝗦𝗜𝗗𝗘 😈 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🩷 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐘𝐔𝐕𝐈 𝐗𝐃 𝐈𝐍𝐒𝐈𝐈𝐃𝐄😈🐧</h1>
+    <h1 class="mt-3">🥀🩷 𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜 𝗜𝗡𝗦𝗜𝗗𝗘 😈🐧</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
